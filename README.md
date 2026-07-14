@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/synapse-foundry-mark.png" alt="Synapse Foundry mark" width="180" />
-</p>
-
 # Synapse Foundry
 
 **Synapse Foundry Pte. Ltd.** is a Singapore-based applied AI company building practical AI products, intelligent systems, and software for real-world work.
